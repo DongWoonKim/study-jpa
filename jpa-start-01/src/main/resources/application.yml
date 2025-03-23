@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jpa-start-01
+  datasource:
+    url: jdbc:mysql://localhost:3307/jpa_basic?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=UTF-8
+    username: root
+    password: 1234
